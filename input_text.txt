@@ -1,0 +1,3 @@
+Natural language processing is an exciting field of artificial intelligence that deals
+with the interaction between computers and humans using natural language. It involves tasks like text
+classification, sentiment analysis, machine translation, and much more.
